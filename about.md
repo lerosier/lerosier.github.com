@@ -4,9 +4,7 @@ title: À propos
 permalink: /À propos/
 ---
 
-{:.about-content}
-
-C'est une blogue personnelle.    
+{:.about-content}C'est une blogue personnelle.    
 De Froufrou à Fou.    
 
 这个个人博客缘起于很多年前，    
