@@ -14,19 +14,19 @@
  * rss
  */
 .rss-subscribe {
-color: $grey-color-light;
+font color: $grey-color-light;
 font-size: 12px;
 
 
     &,
     &:visited {
-        color: $grey-color-light;
+        color: $text-color;
         text-decoration: none;
     }
     
        &,
     &:hover {
-        color: $grey-color-light;
+        color: $text-color;
         text-decoration: none;
     }
 }
