@@ -20,13 +20,13 @@ font-size: 12px;
 
     &,
     &:visited {
-        color: $text-color;
+        color: $grey-color-light;
         text-decoration: none;
     }
     
        &,
     &:hover {
-        color: $text-color;
+        color: $grey-color-light;
         text-decoration: none;
     }
 }
