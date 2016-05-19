@@ -11,6 +11,28 @@
 }
 
 /**
+ * rss
+ */
+.rss-subscribe {
+color: $grey-color-light;
+font-size: 12px;
+
+
+    &,
+    &:visited {
+        color: $grey-color-light;
+        text-decoration: none;
+    }
+    
+       &,
+    &:hover {
+        color: $grey-color-light;
+        text-decoration: none;
+    }
+}
+
+
+/**
  * Site header
  */
 .header-content {
