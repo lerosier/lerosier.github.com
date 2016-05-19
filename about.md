@@ -5,7 +5,7 @@ permalink: /À propos/
 ---
 
 
-
+<p font-size="12px",font-color="$grey-color-light">
 C'est une blogue personnelle.
 
 
@@ -20,3 +20,4 @@ De Froufrou à Fou.
 
 此博，纪念我十年的一事无成。
 也必须见证我所有的努力。
+</p>
