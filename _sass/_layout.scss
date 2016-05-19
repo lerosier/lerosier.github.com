@@ -34,7 +34,6 @@
 .site-nav {
     float: right;
     line-height: 56px;
-    color: $grey-color-light;
 
     .menu-icon {
         display: none;
@@ -124,17 +123,7 @@
  */
 .page-link {
     color: $grey-color-light;
-    &,
-    &:visited {
-        color: $grey-color-light;
-        text-decoration: none;
-    }
-    
-       &,
-    &:hover {
-        color: $grey-color-light;
-        text-decoration: none;
-    }
+    text-decoration: none;
 }
 
 /**
