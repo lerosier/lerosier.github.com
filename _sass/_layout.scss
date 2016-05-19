@@ -177,18 +177,17 @@
         color: $grey-color-light;
         text-decoration: none;
     }
+    
+        &,
+    &:hover {
+        color: $grey-color-light;
+        text-decoration: none;
+    }
     }
 
     .footer-col-3 {
         width: -webkit-calc(100% - (#{$spacing-unit} / 2));
         width:         calc(100% - (#{$spacing-unit} / 2));
-        
-           &,
-    &:visited {
-        color: $grey-color-light;
-        text-decoration: none;
-    }
-    }
 }
 
 @include media-query($on-palm) {
