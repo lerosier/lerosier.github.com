@@ -154,6 +154,19 @@ pre {
   position: relative; }
 
 /**
+ * rss
+ */
+.rss-subscribe {
+  color: #e8e8e8;
+  font-size: 12px; }
+  .rss-subscribe, .rss-subscribe:visited {
+    color: #e8e8e8;
+    text-decoration: none; }
+  .rss-subscribe, .rss-subscribe:hover {
+    color: #e8e8e8;
+    text-decoration: none; }
+
+/**
  * Site header
  */
 .header-content {
