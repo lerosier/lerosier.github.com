@@ -115,7 +115,6 @@
 
 .footer-col-wrapper {
     font-size: 13px;
-    color: $grey-color-dark;
     margin-left: -$spacing-unit / 2;
     @extend %clearfix;
 }
@@ -134,6 +133,7 @@
 .footer-col-2 {
     width: -webkit-calc(20% - (#{$spacing-unit} / 2));
     width:         calc(20% - (#{$spacing-unit} / 2));
+    color: $grey-color-dark;
 }
 
 .footer-col-3 {
