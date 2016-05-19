@@ -1,0 +1,13 @@
+# Sous le Rosier.
+#
+
+# Site settings
+title: 
+email: superloiwu@yahoo.com
+description: Sous le Rosier, chez la rêve...Mais je suis... de Froufrou à Fou...
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://lerosier.github.io" # the base hostname & protocol for your site
+github_username:  lerosier
+
+# Build settings
+markdown: kramdown
