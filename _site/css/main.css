@@ -167,6 +167,16 @@ pre {
     color: #e8e8e8;
     text-decoration: none; }
 
+.rss-link {
+  color: red darken;
+  font-size: 12px; }
+  .rss-link, .rss-link:visited {
+    color: red darken;
+    text-decoration: none; }
+  .rss-link, .rss-link:hover {
+    color: black;
+    text-decoration: none; }
+
 /**
  * Site header
  */
