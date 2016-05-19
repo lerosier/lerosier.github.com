@@ -5,7 +5,7 @@ permalink: /À propos/
 ---
 
 {:.about-content}
-![C'est une blogue personnelle.    
+![C'est une blogue personnelle.]    
 
 De Froufrou à Fou.    
 
