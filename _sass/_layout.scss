@@ -107,11 +107,6 @@
 .site-footer {
     border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
-       &,
-    &:visited {
-        color: $grey-color-light;
-        text-decoration: none;
-    }
 }
 
 .footer-heading {
@@ -129,18 +124,6 @@
     font-size: 13px;
     margin-left: -$spacing-unit / 2;
     @extend %clearfix;
-    
-        &,
-    &:visited {
-        color: $grey-color-light;
-        text-decoration: none;
-    }
-    
-       &,
-    &:hover {
-        color: $grey-color-light;
-        text-decoration: none;
-    }
 }
 
 .footer-col {
@@ -158,6 +141,18 @@
     width: -webkit-calc(20% - (#{$spacing-unit} / 2));
     width:         calc(20% - (#{$spacing-unit} / 2));
     color: $grey-color-dark;
+    
+    &,
+    &:visited {
+        color: $grey-color-dark;
+        text-decoration: none;
+    }
+    
+    &,
+    &:hover {
+        color: $grey-color-dark;
+        text-decoration: none;
+    }
 }
 
 .footer-col-3 {
