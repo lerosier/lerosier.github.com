@@ -141,13 +141,23 @@
     width: -webkit-calc(20% - (#{$spacing-unit} / 2));
     width:         calc(20% - (#{$spacing-unit} / 2));
     color: $grey-color-dark;
+        &,
+    &:visited {
+        color: $grey-color-light;
+        text-decoration: none;
+    }
+    
+       &,
+    &:hover {
+        color: $grey-color-light;
+        text-decoration: none;
+    }
 }
 
 .footer-col-3 {
     width: -webkit-calc(45% - (#{$spacing-unit} / 2));
     width:         calc(45% - (#{$spacing-unit} / 2));
     color: $grey-color-light;
-}
 }
 
 @include media-query($on-laptop) {
