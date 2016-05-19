@@ -168,10 +168,10 @@ pre {
     text-decoration: none; }
 
 .rss-link {
-  color: red darken;
+  color: red;
   font-size: 12px; }
   .rss-link, .rss-link:visited {
-    color: red darken;
+    color: red;
     text-decoration: none; }
   .rss-link, .rss-link:hover {
     color: black;
