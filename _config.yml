@@ -8,7 +8,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://lerosier.github.io" # the base hostname & protocol for your site
 github_username:  lerosier
 timezone: France/Paris
-post.auther: "posté par Qín."
+page.auther: "posté par Qín."
 paginate: 9
 # Build settings
 markdown: kramdown
