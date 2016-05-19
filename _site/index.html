@@ -59,26 +59,10 @@
   <h1 class="page-heading">Posts</h1>
 
   <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
+    
   </ul>
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-  <p class="rss-subscribe">subscribe <a href="/feed.xml">via RSS</a></p>
-=======
-  <p class="rss-subscribe">Subscribe <a class="rss-subscribe" href="/feed.xml">via Rss</a></p>
->>>>>>> origin/master
-=======
-  <p class="rss-subscribe">Subscribe via <a stlyle="rss-subscribe" href="/feed.xml">Rss</a></p>
->>>>>>> origin/master
+  <p class="rss-subscribe">Subscribe via <a style="rss-subscribe" href="/feed.xml">Rss</a></p>
 
 <!-- Google Analystics -->
   <script type="text/javascript">
