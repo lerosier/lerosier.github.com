@@ -141,18 +141,6 @@
     width: -webkit-calc(20% - (#{$spacing-unit} / 2));
     width:         calc(20% - (#{$spacing-unit} / 2));
     color: $grey-color-dark;
-    
-    &,
-    &:visited {
-        color: $grey-color-dark;
-        text-decoration: none;
-    }
-    
-    &,
-    &:hover {
-        color: $grey-color-dark;
-        text-decoration: none;
-    }
 }
 
 .footer-col-3 {
