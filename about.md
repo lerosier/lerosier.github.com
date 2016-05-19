@@ -4,7 +4,7 @@ title: À propos
 permalink: /À propos/
 ---
 
-<div class="about-content" markdown="1">C'est une blogue personnelle.    
+<div class="about-content">C'est une blogue personnelle.    
 
 De Froufrou à Fou.    
 
