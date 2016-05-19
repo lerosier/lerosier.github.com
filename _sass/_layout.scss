@@ -119,6 +119,24 @@
 }
 
 /**
+ * pagelink
+ */
+.page-link {
+    color: $grey-color-light;
+    &,
+    &:visited {
+        color: $grey-color-light;
+        text-decoration: none;
+    }
+    
+       &,
+    &:hover {
+        color: $grey-color-light;
+        text-decoration: none;
+    }
+}
+
+/**
  * Site footer
  */
 .site-footer {
