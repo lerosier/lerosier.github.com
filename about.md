@@ -4,8 +4,7 @@ title: À propos
 permalink: /À propos/
 ---
 
-{:.about-content}
-![C'est une blogue personnelle.]    
+<div class="about-content" markdown="1">C'est une blogue personnelle.    
 
 De Froufrou à Fou.    
 
@@ -17,6 +16,7 @@ De Froufrou à Fou.
 而懂法语的人还能从Fou的阳性词性中，火眼金睛地看出我女汉子的属性。    
 
 此博，纪念我十年的一事无成。   
-也必须见证我所有的努力。   ]
+也必须见证我所有的努力。   
+</div>
 
 
