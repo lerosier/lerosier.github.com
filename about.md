@@ -5,21 +5,17 @@ permalink: /À propos/
 ---
 
 {:.about-content}C'est une blogue personnelle.    
+
 De Froufrou à Fou.    
 
 这个个人博客缘起于很多年前，    
-
 我起了个很文艺女青年的网名叫作Froufrou，意思是风吹动裙子的声音。   
-
 很多年之后我在自己的豆瓣域名里看到自定义的Frou，忽然福至心灵。    
-
 一切都是命中注定，我从Froufrou变成了Fou，疯子的意思。    
 
 而懂法语的人还能从Fou的阳性词性中，火眼金睛地看出我女汉子的属性。    
 
 此博，纪念我十年的一事无成。   
-
-
 也必须见证我所有的努力。   
 
 
