@@ -5,7 +5,7 @@ permalink: /À propos/
 ---
 
 
-<p font-size="12px",font-color="$grey-color-light">
+<p class="about-content">
 C'est une blogue personnelle.
 
 
