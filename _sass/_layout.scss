@@ -291,7 +291,11 @@ font-size: 12px;
     font-size: 12px;
 }
 
-
+.post-title-page {
+    font-size: 14px;
+    letter-spacing: 0;
+    color: $grey-color-dark;
+}
 
 /**
  * Posts
@@ -311,6 +315,8 @@ font-size: 12px;
 }
 
 .post-content {
+    font-size: 12px;
+    color: $grey-color-dark;
     margin-bottom: $spacing-unit;
 
     h2 {
