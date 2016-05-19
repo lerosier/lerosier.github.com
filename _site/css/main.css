@@ -160,10 +160,10 @@ pre {
   color: #e8e8e8;
   font-size: 12px; }
   .rss-subscribe, .rss-subscribe:visited {
-    color: #e8e8e8;
+    color: #111;
     text-decoration: none; }
   .rss-subscribe, .rss-subscribe:hover {
-    color: #e8e8e8;
+    color: #111;
     text-decoration: none; }
 
 /**
