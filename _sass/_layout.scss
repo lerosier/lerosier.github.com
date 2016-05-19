@@ -114,8 +114,8 @@
 }
 
 .footer-col-wrapper {
-    font-size: 11px;
-    color: $grey-color;
+    font-size: 13px;
+    color: $black-color;
     margin-left: -$spacing-unit / 2;
     @extend %clearfix;
 }
@@ -127,13 +127,13 @@
 }
 
 .footer-col-1 {
-    width: -webkit-calc(35% - (#{$spacing-unit} / 2));
-    width:         calc(35% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(35% - (#{$spacing-unit} / 0));
+    width:         calc(35% - (#{$spacing-unit} / 0));
 }
 
 .footer-col-2 {
-    width: -webkit-calc(20% - (#{$spacing-unit} / 2));
-    width:         calc(20% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(20% - (#{$spacing-unit} / 0));
+    width:         calc(20% - (#{$spacing-unit} / 0));
 }
 
 .footer-col-3 {
