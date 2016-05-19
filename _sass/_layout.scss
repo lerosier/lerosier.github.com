@@ -129,6 +129,18 @@
     font-size: 13px;
     margin-left: -$spacing-unit / 2;
     @extend %clearfix;
+    
+        &,
+    &:visited {
+        color: $grey-color-light;
+        text-decoration: none;
+    }
+    
+       &,
+    &:hover {
+        color: $grey-color-light;
+        text-decoration: none;
+    }
 }
 
 .footer-col {
@@ -152,18 +164,7 @@
     width: -webkit-calc(45% - (#{$spacing-unit} / 2));
     width:         calc(45% - (#{$spacing-unit} / 2));
     color: $grey-color-light;
-    
-        &,
-    &:visited {
-        color: $grey-color-light;
-        text-decoration: none;
-    }
-    
-       &,
-    &:hover {
-        color: $grey-color-light;
-        text-decoration: none;
-    }
+}
 }
 
 @include media-query($on-laptop) {
@@ -176,17 +177,6 @@
     .footer-col-3 {
         width: -webkit-calc(100% - (#{$spacing-unit} / 2));
         width:         calc(100% - (#{$spacing-unit} / 2));
-        
-            &,
-    &:visited {
-        color: $grey-color-light;
-        text-decoration: none;
-    }
-    
-       &,
-    &:hover {
-        color: $grey-color-light;
-        text-decoration: none;
     }
 }
 
