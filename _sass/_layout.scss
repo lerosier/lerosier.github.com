@@ -30,6 +30,7 @@ font-size: 12px;
         text-decoration: none;
     }
 }
+
 .rss-link {
 color: red;
 font-size: 12px;
@@ -342,5 +343,25 @@ font-size: 12px;
         @include media-query($on-laptop) {
             font-size: 12px;
         }
+    }
+}
+
+/**
+ * contact
+ */
+.contact {
+color: $grey-color-light;
+font-size: 12px;
+align-items: right;
+    &,
+    &:visited {
+        color: $grey-color-light;
+        text-decoration: none;
+    }
+    
+       &,
+    &:hover {
+        color: $grey-color-light;
+        text-decoration: none;
     }
 }
