@@ -9,8 +9,6 @@ url: "http://lerosier.github.io" # the base hostname & protocol for your site
 github_username:  lerosier
 timezone: France/Paris
 page.auther: "posté par Qín."
-gems: [jekyll-paginate]
 paginate: 9
-paginate_path: "/blog/page:num"
 # Build settings
 markdown: kramdown
