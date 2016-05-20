@@ -392,8 +392,7 @@ pre {
  */
 .contact {
   color: #e8e8e8;
-  font-size: 12px;
-  align-self: right; }
+  font-size: 12px; }
   .contact, .contact:visited {
     color: #e8e8e8;
     text-decoration: none; }
