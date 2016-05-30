@@ -5,9 +5,47 @@
     <description>Sous le Rosier, chez le rêve... Mais je suis... de Froufrou à Fou...</description>
     <link>http://lerosier.github.io/</link>
     <atom:link href="http://lerosier.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 20 May 2016 12:44:53 +0000</pubDate>
-    <lastBuildDate>Fri, 20 May 2016 12:44:53 +0000</lastBuildDate>
+    <pubDate>Mon, 30 May 2016 10:20:35 +0000</pubDate>
+    <lastBuildDate>Mon, 30 May 2016 10:20:35 +0000</lastBuildDate>
     <generator>Jekyll v3.1.5</generator>
+    
+      <item>
+        <title>伪Geek文青的基本素养</title>
+        <description>&lt;p&gt;这个问题要从器材党说起。&lt;/p&gt;
+
+&lt;p&gt;我喜欢买最好的，或者我认为我能得到的最好的，我也最喜欢的器材。比如最日常的买衣服，我一定会看材质，棉质，麻质，viscose等，羊毛因为价格原因，会接受混纺。也就是这一年，这个原则才有一些松动，会因价格和款式对材质做出一些让步。再比如，对画笔的选择，我钟情于Raphael的貂毛笔和松鼠毛拖把。我也曾经觉得，我买一个宝丽来sx-70，只是为了使用的，结果因为饰皮状况不能接受导致，最后还是拍了一部original刻度版。我选二手镜头，会选便宜货，但也偏爱不常见的镜头，反而对镜头状况不太在意，只要基本不影响成像就行。&lt;/p&gt;
+
+&lt;p&gt;类似的选择，充满我人生可以自由做主的每一个角落。&lt;/p&gt;
+
+&lt;p&gt;说来说去，是我对物质的有点变态的需求。但是，再往深一想，我做这些事情，其实只是为了显示我的个性。这些我自认为的，经过我审美观和价值观过滤的东西，让我变得不一样。我是有多缺乏安全感。我是多么想让自己不平凡。&lt;/p&gt;
+
+&lt;p&gt;物质控，就是我妥妥的伪文青的基本素养。说道伪Geek，我还记得我曾买过一本php的圣经教材好像，后来看了一点，现在都忘光了，书也二手卖掉了应该？总之，曾经想过自己建立一个个站的，后来了解到码农不是想当就能当，申请维护域名和空间也挺麻烦，最后连wordpress都没有去玩。这件事情不了了之。&lt;/p&gt;
+
+&lt;p&gt;直到建这个博客之前，我整理邮件看到一个朋友的wordpress的博客，零零散散写了好多年，突然觉得，有些东西如果能这样放在一个生活之外的地方，并没有多少人去看，可能有些人偶然的路过，看过几眼，或者关注过一段时间，也挺好。&lt;/p&gt;
+
+&lt;p&gt;就是，我觉得，有一些事情，应该在自我以外的地方，得以生存。&lt;/p&gt;
+
+&lt;p&gt;因此有了这个博客。当时也是莫名其妙的，就搜到GitHub这个地方，当然啦，都赖网上GitHub建独立博客的教程实在太多。这是一个程序猿交流的圈子，老实说，我一个只能勉强看懂几行css和html代码，在这里fork别人的博客样板再改成自己想要的样子的伪Geek真的很心虚。我并没有代码可以分享呢。&lt;/p&gt;
+
+&lt;p&gt;当时花了两三天的时间，熬夜把博客弄好了，真的很开心。我记得我换Mac之前，常常折腾Win，虽然也不知道自己在折腾什么，大约是搜寻杀毒软件呀，各种小工具的小众软件呀，自定义设置呀什么的，你看，就连代码，我也能玩出物质控，我也不知道说自己什么好了。结果换成Mac之后，我曾经幸苦搜集的各种小软件小资源全部忘光光！我还大言不惭的说，喜欢Mac就是因为不用让我犯选择困难症，以后也再也不用折腾电脑了！&lt;/p&gt;
+
+&lt;p&gt;结果，打脸了。&lt;/p&gt;
+
+&lt;p&gt;从选择Evernote还是Onenote开始，这条路从未停止过！后来是决胜出Ulysses的写作系列，再到番茄闹钟，密码软件，快递查询软件，下载软件吧啦吧啦，就连代码编辑器我也选定Sublime Text了呢。还好我OS上的程序APP真的需求没有特别特别多，还好我还比较忠实于苹果自带的功能和软件，以上说的也都差不多了。&lt;/p&gt;
+
+&lt;p&gt;然而这毛病还是挺让人绝望的，不是吗？&lt;/p&gt;
+
+&lt;p&gt;昨天一时兴起，我又决定折腾下Mac自带的电子词典，因为需要，想装个大罗伯特来着，结果我发现GitHub真是棒棒的，找了个开源项目Pyglossary来转化Mdict的词库格式成Mac适用的格式，折腾了一天，终于能让法语的特殊字母正常显示了。
+可是两个包的代码，我完全不明白为什么，我还下了Diffmerge对比两个包的代码来着，仍然一头雾水！&lt;/p&gt;
+
+&lt;p&gt;就说，我这种三分钟热情的伪Geek文青，有没有可能又跑去学习某种代码呢？虽说终身学习的理念，和编程语言锻炼逻辑的想头很值得倡导，可是，真还真是令人绝望啊。&lt;/p&gt;
+</description>
+        <pubDate>Mon, 30 May 2016 00:00:00 +0000</pubDate>
+        <link>http://lerosier.github.io/2016/05/30/%E4%BC%AAGeek%E6%96%87%E9%9D%92%E7%9A%84%E5%9F%BA%E6%9C%AC%E7%B4%A0%E5%85%BB.html</link>
+        <guid isPermaLink="true">http://lerosier.github.io/2016/05/30/%E4%BC%AAGeek%E6%96%87%E9%9D%92%E7%9A%84%E5%9F%BA%E6%9C%AC%E7%B4%A0%E5%85%BB.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>春风十里，依旧死在懒癌里——说说我那些在发霉的镜头君</title>
