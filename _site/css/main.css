@@ -252,6 +252,16 @@ pre {
 /**
  * username
  */
+.mailto, .mailto:visited {
+  color: #e8e8e8;
+  text-decoration: none; }
+.mailto, .mailto:hover {
+  color: #e8e8e8;
+  text-decoration: none; }
+
+/**
+ * username
+ */
 .username, .username:visited {
   color: #e8e8e8;
   text-decoration: none; }

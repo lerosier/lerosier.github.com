@@ -154,6 +154,23 @@ font-size: 12px;
     }
 }
 
+/**
+ * username
+ */
+.mailto {
+
+    &,
+    &:visited {
+        color: $grey-color-light;
+        text-decoration: none;
+    }
+    
+       &,
+    &:hover {
+        color: $grey-color-light;
+        text-decoration: none;
+    }
+}
 
 /**
  * username
