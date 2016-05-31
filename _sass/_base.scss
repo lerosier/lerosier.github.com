@@ -205,3 +205,20 @@ pre {
         }
     }
 }
+.iconrss {
+
+    > svg {
+        display: inline-block;
+        width: 16px;
+        height: 16px;
+        vertical-align: middle;
+
+        path {
+            fill: $red-color;
+        }
+    }
+}
+
+
+
+
