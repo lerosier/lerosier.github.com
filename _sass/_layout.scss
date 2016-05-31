@@ -256,6 +256,13 @@ font-size: 12px;
     color: $grey-color-light;
 }
 
+.footer-col-4 {
+    width: -webkit-calc(13% - (#{$spacing-unit} / 2));
+    width:         calc(13% - (#{$spacing-unit} / 2));
+    
+    float: right;
+}
+
 @include media-query($on-laptop) {
     .footer-col-1,
     .footer-col-2 {
@@ -267,6 +274,12 @@ font-size: 12px;
         width: -webkit-calc(100% - (#{$spacing-unit} / 2));
         width:         calc(100% - (#{$spacing-unit} / 2));
     }
+    .footer-col-4 {
+    width: -webkit-calc(13% - (#{$spacing-unit} / 2));
+    width:         calc(13% - (#{$spacing-unit} / 2));
+    
+    float: right;
+}
 }
 
 @include media-query($on-palm) {
